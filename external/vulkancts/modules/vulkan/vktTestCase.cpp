@@ -103,6 +103,7 @@ vector<string> filterExtensions (const vector<VkExtensionProperties>& extensions
 		"VK_NV_representative_fragment_test",
 		"VK_NV_shader_atomic_float16_vector",
 		"VK_MVK_macos_surface",
+		"VK_IMG_format_pvrtc"
 	};
 
 	const char* exclusions[] =
